@@ -15,16 +15,6 @@ Permite gestionar mascotas con funcionalidades como búsqueda, ordenamiento y fi
 
 ---
 
-## ⚙️ Requisitos
-
-- PHP 8+
-- Composer
-- Laravel 10+
-- Servidor local (XAMPP, Laragon, Enloqued, etc.)
-- Base de datos MySQL
-
----
-
 ## 🐘 Configuración de la base de datos
 
 1. Crea una base de datos en phpMyAdmin llamada:

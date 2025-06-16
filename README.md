@@ -1,6 +1,6 @@
 # 🐾 Proyecto Laravel - Gestión de Mascotas
 
-Este proyecto es parte del **Laboratorio 3 de PHP - Laravel**.  
+Este proyecto es parte del **Laboratorio 12 de PHP - Laravel**.  
 Permite gestionar mascotas con funcionalidades como búsqueda, ordenamiento y filtrado utilizando **Eloquent ORM** y **vistas Blade**.
 
 ---
